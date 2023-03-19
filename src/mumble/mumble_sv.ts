@@ -1042,7 +1042,7 @@ Det värdet tillåter dig att ställa in ett maximalt antal av användare som ä
     </message>
     <message>
         <source>Push To Talk</source>
-        <translation type="unfinished">Tryck för att Tala</translation>
+        <translation>Tryck för att tala</translation>
     </message>
     <message>
         <source>Audible audio cue when starting or stopping to transmit using Voice Activity</source>
@@ -1054,7 +1054,7 @@ Det värdet tillåter dig att ställa in ett maximalt antal av användare som ä
     </message>
     <message>
         <source>Voice Activity</source>
-        <translation type="unfinished">Ljudaktivitet</translation>
+        <translation>Röstaktivitet</translation>
     </message>
 </context>
 <context>
