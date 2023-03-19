@@ -3110,11 +3110,11 @@ Você tem certeza de que quer substituir o seu certificado?
     </message>
     <message>
         <source>IPv4 address</source>
-        <translation type="unfinished"></translation>
+        <translation>Endereço IPv4</translation>
     </message>
     <message>
         <source>IPv6 address</source>
-        <translation type="unfinished"></translation>
+        <translation>Endereço IPv6</translation>
     </message>
 </context>
 <context>
@@ -7822,7 +7822,7 @@ You can register them again.</source>
     </message>
     <message>
         <source>Load backup settings?</source>
-        <translation type="unfinished"></translation>
+        <translation>Carregar configurações de backup?</translation>
     </message>
     <message>
         <source>It seems that Mumble did not perform a normal shutdown. If you did not intentionally kill the application, this could mean that the used settings caused a crash. Do you want to load the setting&apos;s backup instead?</source>
@@ -7838,7 +7838,7 @@ You can register them again.</source>
     </message>
     <message>
         <source>Access to the microphone was denied due to system restrictions. You will not be able to use the microphone in this session.</source>
-        <translation type="unfinished"></translation>
+        <translation>Acesso ao microfone foi negado devido a restrições do sistema. Você não será capaz de usar o microfone nesta sessão.</translation>
     </message>
     <message>
         <source>Unknown Version</source>
@@ -8072,7 +8072,7 @@ You can register them again.</source>
     </message>
     <message>
         <source>&lt;b&gt;Codec:&lt;/b&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Codec:&lt;/b&gt;</translation>
     </message>
     <message>
         <source>Connection details</source>
@@ -8084,15 +8084,15 @@ You can register them again.</source>
     </message>
     <message>
         <source>&lt;b&gt;Encryption:&lt;/b&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Criptografia:&lt;/b&gt;</translation>
     </message>
     <message>
         <source>&lt;b&gt;Avg. latency:&lt;/b&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Latência média:&lt;/b&gt;</translation>
     </message>
     <message>
         <source>Statistics</source>
-        <translation type="unfinished"></translation>
+        <translation>Estatísticas</translation>
     </message>
     <message>
         <source>Good</source>
@@ -8128,7 +8128,7 @@ You can register them again.</source>
     </message>
     <message>
         <source>&lt;b&gt;TLS version:&lt;/b&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Versão TLS:&lt;/b&gt;</translation>
     </message>
     <message>
         <source>&lt;b&gt;Cipher suite:&lt;/b&gt;</source>
@@ -8757,7 +8757,7 @@ Uma credencial de acesso é uma cadeia de caracteres de texto, que podem ser usa
     </message>
     <message>
         <source>Channel will be pinned when filtering is enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>O canal será fixado quando a filtragem estiver habilitada</translation>
     </message>
 </context>
 <context>
